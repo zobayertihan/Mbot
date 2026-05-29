@@ -1,0 +1,17 @@
+[
+{
+"domain": "warehouse",
+"features": {"requirements_volatility": "high", "time_pressure": "high", "tech_uncertainty": "medium"},
+"label": {"methodology": "Kanban"}
+},
+{
+"domain": "healthcare",
+"features": {"requirements_volatility": "low", "compliance_heavy": true, "tech_uncertainty": "low"},
+"label": {"methodology": "Waterfall"}
+},
+{
+"domain": "medtech",
+"features": {"requirements_volatility": "medium", "safety_critical": true},
+"label": {"methodology": "Spiral"}
+}
+]
